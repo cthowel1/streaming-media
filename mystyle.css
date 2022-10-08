@@ -369,7 +369,7 @@ input:checked ~ label:not(.steps) span:before, input:checked ~ label:not(.steps)
         display: none;
     }
     body {
-        max-width: 834px;
+        width: 834px;
         grid-template-columns:1fr 1fr 1fr;
     }
     
